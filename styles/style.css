@@ -1,4 +1,19 @@
 /* paragraph 스타일 지정 */
 p {
-    color: dimgray
+    color: dimgray;
+}
+
+a {
+    color: cornflowerblue;
+    font-family: sans-serif;
+}
+
+div.song {
+    color: palevioletred;
+}
+
+h1,
+h2,
+h3 {
+    font-style: italic;
 }
