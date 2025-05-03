@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: 임희서의 사이트
-first_name: hee
-middle_name: seo
+first_name: heeseo
+middle_name: 
 last_name: lim
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: ko # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://hhss03.github.io # the base hostname & protocol for your site
