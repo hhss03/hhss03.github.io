@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.snu.ac.kr/'>서울대학교</a>|인문대학|언어학 전공|인문데이터과학 연계전
+subtitle: <a href='https://www.snu.ac.kr/'>서울대학교</a> | 인문대학 | 언어학 전공 | 인문데이터과학 연계전공
 
 profile:
   align: right
@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-임희서는 2022년 서울대학교 인문계열에 입학했습니다. 2023년에 언어학과 전공 진입을 했고 2024년에는 인문데이터과학 연계전공에 진입했습니다. 2025년 1학기 현재 [인문데이터과학개론]을 수강하며 Github Pages와 Jekyll을 활용하여 개인 사이트를 만드는 방법을 배웠습니다. 
+임희서는 2022년 서울대학교 인문계열에 입학했습니다. 2023년에 언어학과 전공 진입을 했고 2024년에는 인문데이터과학 연계전공에 진입했습니다. 
+
+2025년 1학기 현재 [인문데이터과학개론]을 수강하며 Github Pages와 Jekyll을 활용하여 개인 사이트를 만드는 방법을 배웠습니다. 
